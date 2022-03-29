@@ -2,9 +2,9 @@
 
 import random
 
-mylist = ("Head","Tail")
+flip = ("Head","Tail")
 
-print(random.choice(mylist))
+print(random.choice(flip))
 
 
 
